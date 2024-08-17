@@ -1,0 +1,6 @@
+{
+  "public": "spotless hungry crocodile-html",
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" }
+  ]
+}
